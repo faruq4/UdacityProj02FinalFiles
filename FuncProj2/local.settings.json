@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=faruqudcprjlab2stgact;AccountKey=Z74uH2x86nd+3sD8zGSsUuHipfWgd5vxqPoA9LADwyukGS6xRzY/HHST3vYLSMPY3OwXqals0uyw+AStRpdgSA==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=faruqudcprjlab2stgact;AccountKey=Z74uH2x86nd+3sD8zGSsUuHipfWgd5vxqPoA9LADwyukGS6xRzY/HHST3vYLSMPY3OwXqals0uyw+AStRpdgSA==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "faruqndprjfunapp028ed1",
+    "FaruqConStrg": "mongodb://faruqcosmodbaccount:is3toPrQflKVgEnGRf6EHl0TOh5dcvs8kpaxpgDy5jPc9SRmEcOEK81ua5xyDGOvIvUXVOhnoojFACDbVbG3qw==@faruqcosmodbaccount.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@faruqcosmodbaccount@"
+  },
+  "ConnectionStrings": {},
+  "AzureWebJobsStorage": ""
+}
